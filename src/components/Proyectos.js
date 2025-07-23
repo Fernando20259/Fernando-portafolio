@@ -34,7 +34,7 @@ const Proyectos = () => {
       fecha: "2025",
       icono: Monitor,
       imagen: null, // Sin imagen, usará enlace
-      link: "https://example.com/portafolio" 
+      link: "https://github.com/Fernando20259/Fernando-portafolio.git" 
     },
     {
       titulo: "Evento Corpus Christi",
